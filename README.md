@@ -15,4 +15,4 @@ and you're good to go!
 
 grunt serve starts the Livereload, compression of the Less files and starts Watch
 
-grunt minify to minify the CSS
+grunt cssmin to minify the CSS
